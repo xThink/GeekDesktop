@@ -1,2 +1,2 @@
-# coolDesktop
-酷桌面
+# GeekDesktop
+极客桌面
